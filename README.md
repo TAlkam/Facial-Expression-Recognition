@@ -1,7 +1,3 @@
-Creating a `README.md` for your GitHub repository is a great way to introduce and explain your project to others. Based on your file named `Computer_Vision_Facial_Expression_Recognition.ipynb`, I'll draft a sample `README.md` content that you can use as a starting point. You might need to adjust or add more details depending on the specifics of your project, such as installation instructions, dependencies, and how to use the application.
-
----
-
 # Computer Vision: Facial Expression Recognition
 
 ## Overview
@@ -43,7 +39,3 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 ## License
 (Include information about the project's license, if applicable)
-
----
-
-This template covers the basic sections commonly found in a `README.md`. Feel free to expand each section with more detailed information relevant to your project. If your project has unique features, requirements, or setup instructions, be sure to include those as well.
